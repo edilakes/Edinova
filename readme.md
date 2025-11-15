@@ -62,7 +62,6 @@ Una vez desplegado:
 
 * **Dirección del Contrato:** [AÑADIR DIRECCIÓN AQUÍ UNA VEZ DESPLEGADO]
 * **Explorer:** [AÑADIR ENLACE A ETHERSCAN/EXPLORER AQUÍ]
-
 Puedes usar la sección **Deployed Contracts** en Remix para llamar a funciones como `balanceOf(tu_direccion)` para verificar tu saldo de `10,000,000,000 EDNV`.
 ---
 
