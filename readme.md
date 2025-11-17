@@ -60,13 +60,13 @@ El proyecto utiliza la estructura de carpetas estándar de Remix IDE:
 
 Una vez desplegado:
 
-* **Dirección del Contrato:** 
-
-[0x35eFF8D336BB8c6a256799b95B41cC54Bdf3e133]
+* **Dirección del Contrato:**  [0x35eFF8D336BB8c6a256799b95B41cC54Bdf3e133]
 
 
-* **Explorer:** [AÑADIR ENLACE A ETHERSCAN/EXPLORER AQUÍ]
+* **Explorer:** [https://arbiscan.io/token/0x35eff8d336bb8c6a256799b95b41cc54bdf3e133]
 Puedes usar la sección **Deployed Contracts** en Remix para llamar a funciones como `balanceOf(tu_direccion)` para verificar tu saldo de `10,000,000,000 EDNV`.
+
+* **Verificacion:** [https://repo.sourcify.dev/42161/0x35eFF8D336BB8c6a256799b95B41cC54Bdf3e133]
 ---
 
 ## 🔒 Auditoría y Seguridad
